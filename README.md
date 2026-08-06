@@ -6,6 +6,7 @@ A modern and responsive pet shop website built with React, TypeScript and Tailwi
 
 https://elham-barzegar.github.io/petshop-Eli
 
+![Project Preview](./homepage.png)
 
 ## 📌 Overview
 
